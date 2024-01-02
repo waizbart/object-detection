@@ -1,0 +1,26 @@
+<annotation>
+	<folder>four</folder>
+	<filename>four.959823a4-a781-11ee-a617-d8cb8ad7fcf1.jpg</filename>
+	<path>C:\Users\guilh\Documents\Ideas\TFODCourse\Tensorflow\workspace\images\collectedimages\four\four.959823a4-a781-11ee-a617-d8cb8ad7fcf1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Four</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>103</ymin>
+			<xmax>380</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>
